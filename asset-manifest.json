@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.cbf62320.chunk.js",
-    "main.js.map": "/static/js/main.cbf62320.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8b07e775.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8b07e775.js.map",
-    "static/js/2.62dce5ae.chunk.js": "/static/js/2.62dce5ae.chunk.js",
-    "static/js/2.62dce5ae.chunk.js.map": "/static/js/2.62dce5ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2db4a9dc8acae6c768b8f53ccd31071e.js": "/precache-manifest.2db4a9dc8acae6c768b8f53ccd31071e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.62dce5ae.chunk.js.LICENSE.txt": "/static/js/2.62dce5ae.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/workalong-React-Practice/static/css/main.516281dd.chunk.css",
+    "main.js": "/workalong-React-Practice/static/js/main.74f95c17.chunk.js",
+    "main.js.map": "/workalong-React-Practice/static/js/main.74f95c17.chunk.js.map",
+    "runtime-main.js": "/workalong-React-Practice/static/js/runtime-main.6a7d9ac0.js",
+    "runtime-main.js.map": "/workalong-React-Practice/static/js/runtime-main.6a7d9ac0.js.map",
+    "static/css/2.de424728.chunk.css": "/workalong-React-Practice/static/css/2.de424728.chunk.css",
+    "static/js/2.45251a49.chunk.js": "/workalong-React-Practice/static/js/2.45251a49.chunk.js",
+    "static/js/2.45251a49.chunk.js.map": "/workalong-React-Practice/static/js/2.45251a49.chunk.js.map",
+    "index.html": "/workalong-React-Practice/index.html",
+    "precache-manifest.e112018562f2a43aaa7f8e24e3814ad8.js": "/workalong-React-Practice/precache-manifest.e112018562f2a43aaa7f8e24e3814ad8.js",
+    "service-worker.js": "/workalong-React-Practice/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/workalong-React-Practice/static/css/2.de424728.chunk.css.map",
+    "static/css/main.516281dd.chunk.css.map": "/workalong-React-Practice/static/css/main.516281dd.chunk.css.map",
+    "static/js/2.45251a49.chunk.js.LICENSE.txt": "/workalong-React-Practice/static/js/2.45251a49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b07e775.js",
-    "static/js/2.62dce5ae.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cbf62320.chunk.js"
+    "static/js/runtime-main.6a7d9ac0.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.45251a49.chunk.js",
+    "static/css/main.516281dd.chunk.css",
+    "static/js/main.74f95c17.chunk.js"
   ]
 }
