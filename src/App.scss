@@ -1,0 +1,93 @@
+
+.App {
+  margin-top: 5em;
+}
+
+.NewUserButton {
+  display: flex;
+
+  p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 300;
+    margin-right: 15px;
+  }
+}
+
+.table-borderless {
+  margin-top: 20px;
+
+  td,th {
+    font-family: 'Roboto', sans-serif;
+    color: #314a60;
+    vertical-align: baseline!important;
+  }
+
+  td {
+    font-size: 14px;
+    font-weight: 400;
+  }
+
+  th {
+    font-weight: 500;
+    border: 0;
+  }
+}
+
+tbody {
+  tr {
+    border-bottom: 2px solid rgba(0,0,0,0.1);
+  }
+  tr:hover {
+    background-color: #f2f8ff;
+    .deleteButton {
+      visibility: visible;
+    }
+  }
+}
+
+.deleteButton {
+  visibility: hidden;
+  cursor: pointer;
+}
+
+
+.table-wrapper {
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.07);
+}
+
+.user {
+  margin-left: 50px!important;
+  img {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 5px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+ 
+}
+
+.footer {
+  font-family: 'Roboto', sans-serif;
+  font-size: 13.8px;
+  letter-spacing: 0.5px;
+  color: #a1a0a0;
+  padding: 5px 0px 25px 0px;
+  span {
+    letter-spacing: 0.5px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+    color: #314a60;
+    img {
+      padding: 0px 3px 5px 10px;
+    }
+  }
+}
+
+
+
